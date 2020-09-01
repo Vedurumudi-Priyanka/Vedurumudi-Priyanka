@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a Computer Science Student at Sridevi Women's Engineering College
 
-Skills: C/C++/ JS / HTML / CSS
+Skills: C /C++/ HTML / CSS
 
 🌱 I’m currently learning Computer Science Engineering
 
