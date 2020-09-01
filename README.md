@@ -37,17 +37,3 @@ Skills: C/C++/ JS / HTML / CSS
 
 
 
-### My DEV.to Profile
-<hr>
-
-### 📝 Latest articles from [dev.to](https://dev.to/vedurumudipriyanka)
-
-* Jul 03 2020 [TIC TAC TOE](https://dev.to/vedurumudipriyanka/tic-tac-toe-np5) 
-* Jul 03 2020 [Pong Game!!](https://dev.to/vedurumudipriyanka/pong-game-by-vedurumudi-priyanka-562m) 
-<p align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=VedurumudiPriyanka.VedurumudiPriyanka" />
-
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVedurumudiPriyanka" />
-
-</p>
