@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Vedurumudi  Priyanka
 #### CS Student
-![CS Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![CS Student]
 
 I am a Computer Science Student at Sridevi Women's Engineering College
 
