@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Vedurumudi  Priyanka
-#### CS Student
-![CS Student]
+#### Computer Science Student
+
 
 I am a Computer Science Student at Sridevi Women's Engineering College
 
