@@ -22,7 +22,7 @@ I am a Computer Science Student at Sridevi Women's Engineering College
 
 Skills: C /C++/ HTML / CSS
 
-🌱 I’m currently learning Web Development, Programming
+🌱 I’m currently learning Web Development, Competitive Programming
 
 📫 How to reach me: priyankavedurumudi@gmail.com 
 
