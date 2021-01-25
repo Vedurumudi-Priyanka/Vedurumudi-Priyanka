@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   My name is Vedurumudi  Priyanka
-#### Computer Science Student
-
 
 I am a Computer Science Student at Sridevi Women's Engineering College
 
-Skills: C /C++/ HTML / CSS
+Skills: C /C++/ HTML / CSS / Data Structures and Algorithms / OOP
 
 🌱 I’m currently learning Web Development, Competitive Programming
 
