@@ -28,9 +28,7 @@ Skills: C /C++/ HTML / CSS / Data Structures and Algorithms / OOP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vedurumudi-Priyanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vedurumudipriyanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedurumudi-priyanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/VedurumudiP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Vedurumudi-Priyanka)
 
-<a href="https://github.com/Vedurumudi-Priyanka/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vedurumudi-Priyanka&show_icons=true&include_all_commits=true&theme=material-palenight" alt="  Vedurumudi Priyanka's github stats" />
-</a> ![Profile views](https://gpvc.arturio.dev/VedurumudiPriyanka) 
+<img src="https://github-readme-stats.vercel.app/api?username=Vedurumudi-Priyanka&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" /> ![Profile views](https://gpvc.arturio.dev/VedurumudiPriyanka) 
 
 
   
