@@ -13,16 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   My name is Vedurumudi  Priyanka
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   My name is Priyanka
 
-I am a Computer Science Student at Sridevi Women's Engineering College
-
-Skills: C /C++/ HTML / CSS / Data Structures and Algorithms / OOP
-
-
+I am a Computer Science Student 
+ 
 📫 How to reach me: priyankavedurumudi@gmail.com 
 
-😄 Pronouns: She/her
+😄 Pronouns: she/her/hers
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vedurumudi-Priyanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vedurumudipriyanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedurumudi-priyanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/VedurumudiP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Vedurumudi-Priyanka)
 
