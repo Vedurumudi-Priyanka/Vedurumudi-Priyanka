@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   My name is Priyanka
+### Hi there! My name is Priyanka
 
 I am a Computer Science Student 
  
